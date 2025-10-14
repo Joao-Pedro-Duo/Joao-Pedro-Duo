@@ -17,22 +17,31 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que envolva
 
 ## 🧩 Tecnologias e Ferramentas  
 
-- 🐍 **Python**  
-- 🧰 Git e GitHub  
-- 🗄️ Lógica de Programação e Estrutura de Dados  
-- ⚙️ Engenharia de Software e boas práticas de desenvolvimento  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Duo&layout=compact&theme=tokyonight)
 
 ---
 
-## 📂 Meus Projetos  
+## 📂 Meus Projetos
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Duo&show_icons=true&theme=tokyonight)
+
+
+[![Repositórios Recentes](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-Duo&repo=My-Project-MOGIEASY&theme=tokyonight)](https://github.com/Joao-Pedro-Duo/My-Project-MOGIEASY )
+[![Repositórios Recentes](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-Duo&repo=Joao-Pedro-Duo&theme=tokyonight)](https://github.com/Joao-Pedro-Duo/Joao-Pedro-Duo)
 
 ---
 
-## 📫 Como me encontrar  
+## 📫 Contato
 
-🌍 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-duo-54672b380)  
-📧 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedroduo09@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-duo-54672b380)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedroduo09@gmail.com)  
 
 ---
 
-⭐ *“Aprendizado contínuo é o caminho para a excelência”*  
+⭐ *“Aprendizado contínuo é o caminho para a excelência”*
+
+![Contador de Visualizações](https://komarev.com/ghpvc/?username=Joao-Pedro-Duo&color=blue&style=for-the-badge)

@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou o João Pedro Duo  
 
-🎓 Estudante de **Engenharia de Software**  
+🎓 Estudante de **Engenharia de Software**
+
 👨‍💻 Desenvolvedor Back-end
+
 🚀 Em busca de experiência prática e crescimento como **programador**
 
 ---

@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o [João Pedro Duo]  
 
-<!--
-**Joao-Pedro-Duo/Joao-Pedro-Duo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software**  
+💻 Aprendendo **Python** e desenvolvimento de software  
+🚀 Em busca de experiência prática e crescimento como **programador**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim  
+Sou estudante de Engenharia de Software e estou em constante aprendizado na área de **desenvolvimento de software**.  
+Atualmente estudo **Python**, com foco em automação, análise de dados e desenvolvimento web.  
+Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que envolvam inovação, boas práticas e trabalho em equipe.
+
+---
+
+## 🧩 Tecnologias e Ferramentas  
+
+- 🐍 **Python**  
+- 🧰 Git e GitHub  
+- 🗄️ Lógica de Programação e Estrutura de Dados  
+- ⚙️ Engenharia de Software e boas práticas de desenvolvimento  
+
+---
+
+## 📂 Meus Projetos  
+
+---
+
+## 📫 Como me encontrar  
+
+🌍 [LinkedIn](https://www.linkedin.com/in/joão-pedro-duo-54672b380)  
+📧 **joaopedroduo09@gmail.com**  
+
+---
+
+⭐ *“Aprendizado contínuo é o caminho para a excelência”*  

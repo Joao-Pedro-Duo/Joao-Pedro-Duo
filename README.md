@@ -30,7 +30,7 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que envolva
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Duo&show_icons=true&theme=tokyonight)
 
 
-[![Repositórios Recentes](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-Duo&repo=My-Project-MOGIEASY&theme=tokyonight)](https://github.com/Joao-Pedro-Duo/My-Project-MOGIEASY)
+[![Repositórios Recentes](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-Duo&repo=Calculadora-Framework-Kivy-&theme=tokyonight)](https://github.com/Joao-Pedro-Duo/Calculadora-Framework-Kivy-)
 [![Repositórios Recentes](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-Duo&repo=Joao-Pedro-Duo&theme=tokyonight)](https://github.com/Joao-Pedro-Duo/Joao-Pedro-Duo)
 
 ---

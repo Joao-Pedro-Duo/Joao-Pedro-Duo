@@ -25,7 +25,6 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que envolva
 
 ## 📂 Meus Projetos
 
-[![Repositórios Recentes](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-Duo&repo=Calculadora-Framework-Kivy-)](https://github.com/Joao-Pedro-Duo/Calculadora-Framework-Kivy-)
 [![Repositórios Recentes](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-Duo&repo=Joao-Pedro-Duo&theme=tokyonight)](https://github.com/Joao-Pedro-Duo/Joao-Pedro-Duo)
 
 ---

@@ -21,7 +21,7 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que envolva
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Duo&layout=compact&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Duo&layout=compact&theme=radical&count_private=true)
 
 ---
 

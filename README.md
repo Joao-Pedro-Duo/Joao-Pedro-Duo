@@ -23,12 +23,6 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que envolva
 
 ---
 
-## 📂 Meus Projetos
-
-[![Repositórios Recentes](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-Duo&repo=Joao-Pedro-Duo&theme=tokyonight)](https://github.com/Joao-Pedro-Duo/Joao-Pedro-Duo)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-duo-54672b380)  

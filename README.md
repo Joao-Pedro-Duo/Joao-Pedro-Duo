@@ -37,7 +37,7 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que envolva
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Joao-Pedro-Duo/Joao-Pedro-Duo/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 

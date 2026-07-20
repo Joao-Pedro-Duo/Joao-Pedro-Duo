@@ -21,17 +21,17 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com projetos que envolva
 
 ---
 
+## 📊 GitHub Status:
+![](https://github-readme-stats.shion.dev/api?username=Joao-Pedro-Duo&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Joao-Pedro-Duo&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Joao-Pedro-Duo&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-duo-54672b380)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedroduo09@gmail.com)  
-
----
-
-# 📊 GitHub Status:
-![](https://github-readme-stats.shion.dev/api?username=Joao-Pedro-Duo&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Joao-Pedro-Duo&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Joao-Pedro-Duo&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
